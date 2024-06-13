@@ -7,7 +7,7 @@
     width: 100vw;
     height: 100vh;
     background-size: cover;
-    background-image: url(flowers_high_resolution-t2.jpg);
+    background-image: url(image7.png);
     text-align: center;
     color: yellow;
 }
@@ -16,9 +16,10 @@
     width: 30%;
     height: 70%;
     border: 15px solid rgb(0, 136, 255);
+    border-radius: 50%;
 }
 
 #line {
-    color: yellow;
+    color: black;
     font-size: larger;
 }
